@@ -28,7 +28,5 @@ Remove the lines you dont want to execute or add some more if you need them & sa
 just Download the
 **_[PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "PutBackW10Bloat.bat.txt")_ & UNDO the process SCRIPT from above.**
 
-##### 4. Ask for pull-requests if you your edit it or get some progress in any way, pasy asttention some of the Services are constantly renamed every Update(Microsoft Telemetry for example). make sure youu check whats new and update scripts & make changes, make Pull Request - will update it once a week in Master branch.
-
-
-Cheers and ask if you need help or have suggestions + need more custom stuff added or updated. Feel FREE to Fork it, develop it & improve it - get some more Tweaks and Cleaner OS by: _Disabling, Blocking, Deleting and Firewalling_ those MS suckers is one of the ways to ensure your HDD/SSD not Fail in few months by overloading after Windows reboot every time... JUST CHECK YOUR HARD DISK USAGE LED and TaskManager + SORT BY DISK USAGE Before YouUse SCRIPT --> YOU WIL BE AMAZED that every Reboot you make just TURN ON "Task Manager" to verify that your DISK USAGE is not 100% for 10-15mins. after every single Desktop loaded and this Tweaks works great so no harm on OS is made, SSD/HDD does not drill in idle state as you thought and usage is normalized.
+#### 4. Ask for pull-requests if you edit it or get some progress, pay attention to some of the Services, they are renamed every Update(eg. Microsoft Telemetry).
+Make sure youu check what's new and update scripts, make changes, make Pull Request etc. - will update it once a week in Master branch. all feedback and help is welcome.
