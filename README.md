@@ -7,7 +7,7 @@ Improved hwinfo.com Script I Forked and adapted for 2yrs after usage compatible 
 It's a custom scripts & Service disabling code added into _1-per-line-tweak_ & compiled into a single batch file based on what I considered is useful and plan to add, edit & improve it on a daily basis. Download example and try it from **[Download HERE ->> RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt") , then remove the ".txt" extension and run as Admin. Use at your own risk! Customize as you wish. In case you want to put things back, here's the reverse/Undo script(remove the ".txt" extension and run as Admin as well).
 [UNDO process in 1-Click](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO process in 1-Click").
 
-### Remove Bloat from Windows 10 & disable SpyWare,tracking, logging or Telemetry Services well known as "Win.10 SpyWare OS" General!
+### Remove Bloat Services from Windows 10 & disable SpyWare, Tracking, Logging, Telemetry Services well known as "Win.10 SpyWare OS in General!"
 
 #### 1. **Right-Click & Run As Admin** fires the script as *.bat in Command Prompt, after finishing restart your PC.
 
