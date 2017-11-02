@@ -1,4 +1,4 @@
-@rem *** Disable Some Service ***
+@rem *** Disable Some Services, SpyWare & Telemetry from destroying your HDD by indexing & sending data to MS Servers on an idle PC ***
 sc stop DiagTrack
 sc stop diagnosticshub.standardcollector.service
 sc stop dmwappushservice
