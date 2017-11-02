@@ -8,4 +8,4 @@ It's a compilation of several scripts into a single batch file based on what I c
 **Download RemoveW10Bloat [FROM HERE!!!](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "HERE"), then remove the ".txt"** extension and run as Admin.
 Use at your own risk! Customize as you wish. 
 
-In case you want __to put things back__, **[HERE's](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO PROCES SCRIPT HERE")**. The reverse script (remove the ".txt" extension and run as Admin).
+In case you want _to put things back_, **[HERE's](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO PROCES SCRIPT HERE")**. The reverse script (remove the ".txt" extension and run as Admin).
