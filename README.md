@@ -6,8 +6,8 @@ Improved hwinfo.com Script I Forked and adapted for 2yrs after usage compatible 
 
 ### Instructions: Naming Convention, Editing, Running Batch scripts.
 
-It's a custom scripts & Service disabling code added into _1-per-line-tweak_ & compiled into a single batch file based on what I considered is useful and plan to add, edit & improve it on a daily basis. Download example and try it from **[Download HERE ->> RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt") , then remove the ".txt" extension and run as Admin. Use at your own risk! Customize as you wish. In case you want to put things back, here's the reverse/Undo script(remove the ".txt" extension and run as Admin as well). [UNDO process in 1-Click](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO process in 1-Click").
-
+It's a custom scripts & Service disabling code added into _1-per-line-tweak_ & compiled into a single batch file based on what I considered is useful and plan to add, edit & improve it on a daily basis. Download example and try it from **[Download HERE ->> RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt") , then remove the ".txt" extension and run as Admin. Use at your own risk! Customize as you wish. In case you want to put things back, here's the reverse/Undo script(remove the ".txt" extension and run as Admin as well).
+[UNDO process in 1-Click](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO process in 1-Click").
 
 ## Remove Bloat from Windows 10 & disable SpyWare,tracking, logging or Telemetry Services well known as "Win.10 SpyWare OS".
 
@@ -16,7 +16,7 @@ It's a compilation of several scripts into a single batch file based on what I c
 **[Download RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt"), then remove the ".txt"** extension(so it looks like "_**RemoveW10Bloat.bat**_") and **run as Admin.**
 Use at your own risk! Customize it as you wish. 
 
-In case you want _**to put things back & [UNDO the process]**_(https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO the process")_**[PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt **"UNDO SCRIPT with PutBackW10Bloat.bat.txt"). The reverse script (remove the ".txt" extension and Right-Click + Run As Admin).**
+In case you want to **put things back & [UNDO process in 1-Click]**(https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO process in 1-Click") [PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO SCRIPT with PutBackW10Bloat.bat.txt"). The reverse script(remove the **".txt" extension** and **Right-Click + Run As Admin).**
 
 ### Both Scripts Usage & Tips: Delete (.txt) suffix extension and leave it in FileName.bat FileFormat, Save it & Run As Admin, this FileName.* convention & formatting style(eg. RENAME it from/to: PutBackW10Bloat.bat_**.txt**_ to PutBackW10Bloat_**.bat**_ or YourNEwScriptName_**.bat**_).
 
