@@ -1,4 +1,4 @@
-@rem *** Enable Services Back ***
+@rem *** Enable Services Back 1-Click Script Undo ***
 sc config DiagTrack start= auto
 sc config diagnosticshub.standardcollector.service start= auto
 sc config dmwappushservice start= auto
@@ -77,7 +77,7 @@ reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeli
 
 
 @rem Put Built-in Apps Back
-PowerShell -Command "Get-AppxPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register ì$($_.InstallLocation)\AppXManifest.xmlî}"
+PowerShell -Command "Get-AppxPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register ‚Äú$($_.InstallLocation)\AppXManifest.xml‚Äù}"
 
 
 @rem NOW JUST SOME TWEAKS
