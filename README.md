@@ -1,15 +1,13 @@
-# RemoveW10Bloat from Windows 10
+## RemoveW10Bloat from Windows 10 with Instructions, Naming Convention, Editing, Running Batch scripts.
 
 Improved hwinfo.com Script I Forked and adapted for 2yrs after usage compatible with 10 home, pro, ltsb with CU Update as for the earlier releases, will be updated if you help with the tweaks and share or help to improve by reporting issues & requesting-pulls in order to get better experience while using this OS.
 
 ![YOUR SSD/HDD USAGE GOES 100% - Microsoft Compatibility Telemetry Service](https://linustechtips.com/main/uploads/monthly_2017_01/5874265216415_Screenshot(142).png.88240b85c01e3748bc05f46e5227f157.png "Windows 10 Spyware SSD/HDD 100% & heating, after a clean Windows10 install or last cumulative update Telemetry Service is Renamed/rEnambled after I blocked it & HDD/SSD is 100% in idle state constantly!")
 
-### Instructions: Naming Convention, Editing, Running Batch scripts.
-
 It's a custom scripts & Service disabling code added into _1-per-line-tweak_ & compiled into a single batch file based on what I considered is useful and plan to add, edit & improve it on a daily basis. Download example and try it from **[Download HERE ->> RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt") , then remove the ".txt" extension and run as Admin. Use at your own risk! Customize as you wish. In case you want to put things back, here's the reverse/Undo script(remove the ".txt" extension and run as Admin as well).
 [UNDO process in 1-Click](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO process in 1-Click").
 
-## Remove Bloat from Windows 10 & disable SpyWare,tracking, logging or Telemetry Services well known as "Win.10 SpyWare OS".
+### Remove Bloat from Windows 10 & disable SpyWare,tracking, logging or Telemetry Services well known as "Win.10 SpyWare OS".
 
 This batch file can be used to remove tracking/telemetry, data collection and default apps from Windows 10.
 It's a compilation of several scripts into a single batch file based on what I considered useful.
