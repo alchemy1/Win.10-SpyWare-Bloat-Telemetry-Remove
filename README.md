@@ -1,4 +1,4 @@
-## RemoveW10Bloat from Windows 10 with Instructions, Naming Convention, Editing, Running Batch scripts.
+## Remove Bloat from Windows 10 with Instructions, Naming Convention, Editing, Running Batch scripts etc.
 
 Improved hwinfo.com Script I Forked and adapted for 2yrs after usage compatible with 10 home, pro, ltsb with CU Update as for the earlier releases, will be updated if you help with the tweaks and share or help to improve by reporting issues & requesting-pulls in order to get better experience while using this OS.
 
