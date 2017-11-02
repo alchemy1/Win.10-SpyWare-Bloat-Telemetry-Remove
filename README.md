@@ -8,7 +8,7 @@ It's a compilation of several scripts into a single batch file based on what I c
 **[Download RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt"), then remove the ".txt"** extension(so it looks like "_RemoveW10Bloat.bat_") and **run as Admin.**
 Use at your own risk! Customize it as you wish. 
 
-In case you want **_to put things back & UNDO the process _**, **[PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO SCRIPT with PutBackW10Bloat.bat.txt")**. The reverse script (remove the ".txt" extension and **Right-Click + Run As Admin).**
+In case you want _**to put things back & UNDO the process**_, **[PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO SCRIPT with PutBackW10Bloat.bat.txt")**. The reverse script (remove the ".txt" extension and **Right-Click + Run As Admin).**
 
 ## BOTH SCRIPTS USAGE: DELETE (.txt) suffix extension and _RIGHTCLICK + RUN AS ADMIN file as described in this format model(eg. _**PutBackW10Bloat.bat or YourNewScriptName.bat**_).
 
