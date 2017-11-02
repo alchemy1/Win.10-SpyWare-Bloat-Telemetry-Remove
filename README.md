@@ -5,7 +5,7 @@ Remove Bloat from Windows 10  This batch file can be used to remove tracking/tel
 
 This batch file can be used to remove tracking/telemetry, data collection and default apps from Windows 10.
 It's a compilation of several scripts into a single batch file based on what I considered useful.
-**[Download RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt"), then remove the ".txt"** extension(so it looks like "_RemoveW10Bloat.bat_") and **run as Admin.**
+**[Download RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt"), then remove the ".txt"** extension(so it looks like "_**RemoveW10Bloat.bat**_") and **run as Admin.**
 Use at your own risk! Customize it as you wish. 
 
 In case you want _**to put things back & UNDO the process**_, **[PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "UNDO SCRIPT with PutBackW10Bloat.bat.txt")**. The reverse script (remove the ".txt" extension and **Right-Click + Run As Admin).**
