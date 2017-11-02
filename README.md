@@ -28,3 +28,5 @@ If you wanna execute script as **_1-by-1 service or task per line**_ and not all
 #### 5. Help develop it by pull-requests your edited and tested versions or some progress or NEW SERVICES and what they do. 
 Pay attention to some of the Services/Processes, they are renamed by Microsoft every Update(eg. Microsoft Telemetry).
 Make sure youu check what's new and update scripts, make changes, ask for Pull Request, report an issues or demand new functionalities - will update it once a week in Master branch, all feedback and help is welcome.
+
+
