@@ -22,8 +22,8 @@ Use at your own risk! Customize it as you wish.
 just Download the
 **_[PutBackW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/PutBackW10Bloat.bat.txt "PutBackW10Bloat.bat.txt")_ & UNDO the process SCRIPT from above.**
 
-#### 4. RE-NAMING AND FILE FORMAT STYLE EXPLAINED:
-If you wanna execute script as 1-by-1 service or task per line and not all, just edit _**RemoveW10Bloat.bat.txt**_ with some txt editor(eg. _**Notepad++, SublimeText, Windows Notepad, anyTxtEditorYouHave...**_). Remove the lines you dont want to execute or add some more if you need them & save it back to FileName.bat(remove *.txt suffix like here **_RemoveW10Bloat.bat_**) & execute as described by _**RightClicking it + Run As Admin**_, reboot PC after and check the services and tasks usually RUNNING in processes tree or services window.
+#### 4. Re-naming and File extension/style/formatting convention explained:
+If you wanna execute script as **_1-by-1 service or task per line**_ and not all, just edit _**RemoveW10Bloat.bat.txt**_ with some txt editor(eg. _**Notepad++, SublimeText, Windows Notepad, anyTxtEditorYouHave...**_). Remove the lines you dont want to execute or add some more if you need them & save it back to FileName.bat(remove *.txt suffix like here **_RemoveW10Bloat.bat_**) & execute as described by _**RightClicking it + Run As Admin**_, reboot PC after and check the services and tasks usually RUNNING in processes tree or services window.
 
 #### 5. Help develop it by pull-requests your edited and tested versions or some progress or NEW SERVICES and what they do. 
 Pay attention to some of the Services/Processes, they are renamed by Microsoft every Update(eg. Microsoft Telemetry).
