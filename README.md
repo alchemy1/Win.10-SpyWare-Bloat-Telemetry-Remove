@@ -4,7 +4,9 @@ Improved hwinfo.com Script I Forked and adapted for 2yrs after usage compatible 
 
 ![YOUR SSD/HDD USAGE GOES 100% - Microsoft Compatibility Telemetry Service](https://linustechtips.com/main/uploads/monthly_2017_01/5874265216415_Screenshot(142).png.88240b85c01e3748bc05f46e5227f157.png "Windows 10 Spyware SSD/HDD 100% & heating, after a clean Windows10 install or last cumulative update Telemetry Service is Renamed/rEnambled after I blocked it & HDD/SSD is 100% in idle state constantly!")
 
-**Remove BloatWare from Windows 10** This batch file can be used to remove tracking/telemetry, data collection and default apps from Windows 10. It's a compilation of several scripts into a single batch file based on what I considered useful. Download HERE, then remove the ".txt" extension and run as Admin. Use at your own risk! Customize as you wish.   In case you want to put things back, here's the reverse script (remove the ".txt" extension and run as Admin).
+### Usage Instructions, Naming Convention, editing, Reusability etc.
+
+It's a custom scripts & Service disabling added into 1-per-line-tweak compiled into a single batch file based on what I considered is useful and plan to add or edit & improve it on a daily basis. Download example I compiled from **[Download HERE ->> RemoveW10Bloat.bat.txt](https://github.com/komodev/RemoveW10Bloat/blob/master/RemoveW10Bloat.bat.txt "Download RemoveW10Bloat.bat.txt") , then remove the ".txt" extension and run as Admin. Use at your own risk! Customize as you wish.   In case you want to put things back, here's the reverse/Undo script(remove the ".txt" extension and run as Admin).
 
 ## Remove Bloat from Windows 10 & disable SpyWare,tracking, logging or Telemetry Services well known as "Win.10 SpyWare OS".
 
