@@ -1,6 +1,6 @@
-## Remove Bloat & SpyWare in Win-10: Instructions, Naming Convention, Editing, Running Batch scripts etc.
+## Remove BloatWare, Telemetry & SpyWare Services in Win-10: Instructions, Naming Convention, Editing, Running Batch scripts etc.
 
-Improved hwinfo.com Script I Forked and adapted for 2yrs after usage compatible with 10 home, pro, ltsb with CU Update as for the earlier releases, will be updated if you help with the tweaks and share or help to improve by reporting issues & requesting-pulls in order to get better experience while using this OS.
+Updated & improved hwinfo.com Script I've Forked and adapted for usage on newer Win-10 releases,  compatible with 10 home, pro, ltsb with CU Update as for the earlier releases, will be updated if you help with the tweaks and share or help to improve by reporting issues & requesting-pulls in order to get better experience while using this OS.
 
 ![YOUR SSD/HDD USAGE GOES 100% - Microsoft Compatibility Telemetry Service](https://linustechtips.com/main/uploads/monthly_2017_01/5874265216415_Screenshot(142).png.88240b85c01e3748bc05f46e5227f157.png "Windows 10 Spyware SSD/HDD 100% & heating, after a clean Windows10 install or last cumulative update Telemetry Service is Renamed/rEnambled after I blocked it & HDD/SSD is 100% in idle state constantly!")
 
@@ -25,8 +25,7 @@ just Download the
 #### 4. Re-naming and File extension/style/formatting convention explained:
 If you wanna execute script as **_1-by-1 service or task per line**_ and not all, just edit _**RemoveW10Bloat.bat.txt**_ with some txt editor(eg. _**Notepad++, SublimeText, Windows Notepad, anyTxtEditorYouHave...**_). Remove the lines you dont want to execute or add some more if you need them & save it back to FileName.bat(remove *.txt suffix like here **_RemoveW10Bloat.bat_**) & execute as described by _**RightClicking it + Run As Admin**_, reboot PC after and check the services and tasks usually RUNNING in processes tree or services window.
 
-#### 5. Help develop it by pull-requests your edited and tested versions or some progress or NEW SERVICES and what they do. 
-Pay attention to some of the Services/Processes, they are renamed by Microsoft every Update(eg. Microsoft Telemetry).
-Make sure youu check what's new and update scripts, make changes, ask for Pull Request, report an issues or demand new functionalities - will update it once a week in Master branch, all feedback and help is welcome.
-
+#### 5. Help me add new tested tweaks that you think can improve it, test it, there is few minor lines that do not work since some of the services are changed by Microsoft. Just report them over and share yourexperience.
+Pay attention to some of the Services/Processes, they are renamed by Microsoft almost every Update(eg. Microsoft Telemetry).
+Make sure youu check what's new and update scripts/service names and re-run only specific ones after updates - Microsoft know we are blocking them so they play on "rename service Card believe it or not, all feedback and help is welcome as  usual.
 
